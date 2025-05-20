@@ -10,8 +10,8 @@ int main()
     while (num < 10) {
         cuadrado = num * num;
         cubo = num * num * num;
-        num++;
         cout << num << "\t" << cuadrado << "\t" << cubo << endl;
+        num++;
     }
     return 0;
  
