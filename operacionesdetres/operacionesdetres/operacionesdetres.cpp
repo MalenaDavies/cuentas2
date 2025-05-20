@@ -44,5 +44,6 @@ int main()
     cout << "El producto de " << a << " x " << b << " x " << c << " es: " << producto << endl;
     cout << "El mayor de " << a << ", " << b << " y " << c << " es: " << mayor << endl;
     cout << "El menor de " << a << ", " << b << " y " << c << " es: " << menor << endl;
+    return 0;
 }
 
