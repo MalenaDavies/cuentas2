@@ -24,7 +24,7 @@ int main()
     else if (b > a && b > c) {
         mayor = b;
     }
-    else (c > a && c > b); {
+    else {
         mayor = c;
     }
 
@@ -35,7 +35,7 @@ int main()
     else if (b < a && b < c) {
         menor = b;
     }
-    else (c < a && c < b); {
+    else {
         menor = c;
     }
 
